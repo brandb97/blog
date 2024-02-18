@@ -4,6 +4,7 @@ date: 2023-10-15 07:59:03
 tags:
 - ideas
 - feelings
+- trip
 categories: 随笔
 ---
 
